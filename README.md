@@ -6,6 +6,8 @@
 <h2>Languages and Tools:</h2>
 <h3>Design</h3>
 <a href='#'><img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" alt="Figma" width="40" height="40"/></a>
+<a href='#'><img src="https://github.com/devicons/devicon/blob/master/icons/sketch/sketch-original.svg" alt="Sketch" width="40" height="40"/></a>
+<a href='#'><img src="https://github.com/devicons/devicon/blob/master/icons/xd/xd-plain.svg" alt="Adobe XD" width="40" height="40"/></a>
 
 <h3>Development</h3>
 
