@@ -9,4 +9,5 @@ Here you can find me:
 - <a href="https://www.linkedin.com/in/adrianojosue/" target="blank">LinkedIn</a>
 
 📉 My statistics:
+
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=adrianojosue)](https://github.com/anuraghazra/github-readme-stats)
