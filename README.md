@@ -1,4 +1,4 @@
-<h1>Hi 👋, I'm Adriano, a UI Developer.</h1>
+<h1>Hi 👋, I'm Adriano, a UI Developer</h1>
 
 <p>I love create UIs, learn web technologies and work with React.</p>
 <p>You can see my UI designs on <a href="https://www.behance.net/adrianojosue" target="_blank">Behance</a>.</p>
