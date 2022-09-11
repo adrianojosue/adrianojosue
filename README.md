@@ -32,6 +32,10 @@
   <li><a href="https://twitter.com/adrianojosue" target="_blank">Twitter</a></li>
   <li><a href="https://www.linkedin.com/in/adrianojosue/" target="_blank">LinkedIn</a></li>
 </ul>
+
+<br>
+<br>
+<br>
   
 <h2>📉 My statistics:</h2>
 
