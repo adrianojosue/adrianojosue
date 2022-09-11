@@ -1,13 +1,7 @@
 <h1>Hi 👋, I'm Adriano, a UI Developer.</h1>
+
 <h3>I love create UIs, learn web technologies and work with React.</h3>
-
 <p>You can see my UI designs on <a href="https://www.behance.net/adrianojosue" target="_blank">Behance</a>.</p>
-
-<h2>Here you can find me:<h2>
-<ul>
-  <li><a href="https://twitter.com/adrianojosue" target="_blank">Twitter</a></li>
-  <li><a href="https://www.linkedin.com/in/adrianojosue/" target="_blank">LinkedIn</a></li>
-</ul>
   
 <h2>Languages and Tools:</h2>
 <h3>UI Design</h3>
@@ -28,12 +22,16 @@
 <a href='#'><img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" alt="SASS" width="40" height="40" align="left" /></a>
   
 <a href='#'><img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain.svg" alt="Firebase" width="40" height="40" align="left" /></a>
-  
-<a href='#'><img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" alt="VS Code" width="40" height="40" align="left" /></a>
-  
+
 <br>
 <br>
 <br>
+
+<h2>Here you can contact me:<h2>
+<ul>
+  <li><a href="https://twitter.com/adrianojosue" target="_blank">Twitter</a></li>
+  <li><a href="https://www.linkedin.com/in/adrianojosue/" target="_blank">LinkedIn</a></li>
+</ul>
   
 <h2>📉 My statistics:</h2>
 
