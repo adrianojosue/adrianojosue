@@ -4,10 +4,10 @@
 <p>You can see my UI designs on <a href="https://www.behance.net/adrianojosue" target="_blank">Behance</a>.</p>
   
 <h2>Languages and Tools:</h2>
-<h3>UI Design</h3>
+<h3>Design</h3>
 <a href='#'><img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" alt="Figma" width="40" height="40"/></a>
 
-<h3>UI Development</h3>
+<h3>Development</h3>
 
 <a href='#'><img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40" align="left" /></a>
   
@@ -32,10 +32,6 @@
   <li><a href="https://twitter.com/adrianojosue" target="_blank">Twitter</a></li>
   <li><a href="https://www.linkedin.com/in/adrianojosue/" target="_blank">LinkedIn</a></li>
 </ul>
-
-<br>
-<br>
-<br>
   
 <h2>📉 My statistics:</h2>
 
