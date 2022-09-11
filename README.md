@@ -10,4 +10,4 @@ Here you can find me:
 
 📉 My statistics:
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=adrianojosue&show_icons=true&count_private=true&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=adrianojosue&show_icons=true&count_private=true&theme=github_dark&hide=issues)](https://github.com/anuraghazra/github-readme-stats)
