@@ -1,4 +1,4 @@
-### Hello world! 👋 I'm Adriano Josué Díaz Hidalgo, a UI Developer.
+### Hello world 👋, I'm Adriano Josué Díaz Hidalgo, a UI Developer.
 
 I love create UIs, learn web technologies and work with React.
 
