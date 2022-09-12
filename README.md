@@ -1,8 +1,11 @@
 <h1>Hi 👋, I'm Adriano, a UI Developer</h1>
 
 <p>I love create UIs, learn web technologies and work with React.</p>
-<p>You can watch my UI designs on <a href="https://www.behance.net/adrianojosue" target="_blank">Behance</a>.</p>
-<p>This is my resume 😎: <a href='./Resume (Adriano Josué Díaz Hidalgo).pdf' align="left">📄</a></p>
+
+<ul>
+  <li>You can watch my UI designs on <a href="https://www.behance.net/adrianojosue" target="_blank">Behance</a>.</li>
+  <li>This is my resume 😎: <a href='./Resume (Adriano Josué Díaz Hidalgo).pdf' align="left">📄</a></li>
+</ul>
   
 <h2>Languages and Tools:</h2>
 <h3>Design</h3>
