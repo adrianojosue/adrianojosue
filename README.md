@@ -10,6 +10,7 @@
 <br>
   
 <h2>Languages and Tools:</h2>
+<br>
 
 <h3>Design</h3>
 <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" alt="Figma" width="40" height="40" align="left" />
@@ -31,6 +32,7 @@
 <br>
 <br>
 <br>
+<br>
 
 <h2>Here you can contact me:<h2>
 <ul>
@@ -39,6 +41,7 @@
   <li><a href="mailto:josuediazhidalgo@gmail.com">Email me</a></li>
 </ul>
   
+<br>
 <br>
   
 <h2>📉 My statistics:</h2>
