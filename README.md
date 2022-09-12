@@ -6,6 +6,8 @@
   <li>You can watch my UI designs on <a href="https://www.behance.net/adrianojosue" target="_blank">Behance</a>.</li>
   <li>This is my resume 😎: <a href='./Resume (Adriano Josué Díaz Hidalgo).pdf' align="left">📄</a></li>
 </ul>
+
+<br>
   
 <h2>Languages and Tools:</h2>
 
@@ -13,6 +15,9 @@
 <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" alt="Figma" width="40" height="40" align="left" />
 <img src="https://github.com/devicons/devicon/blob/master/icons/sketch/sketch-original.svg" alt="Sketch" width="40" height="40" align="left" />
 <img src="https://github.com/devicons/devicon/blob/master/icons/xd/xd-plain.svg" alt="Adobe XD" width="40" height="40" align="left" />
+
+<br>
+<br>
 
 <h3>Development</h3>
 <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40" align="left" />
@@ -33,6 +38,8 @@
   <li><a href="https://www.linkedin.com/in/adrianojosue/" target="_blank">LinkedIn</a></li>
   <li><a href="mailto:josuediazhidalgo@gmail.com">Email me</a></li>
 </ul>
+  
+<br>
   
 <h2>📉 My statistics:</h2>
 
