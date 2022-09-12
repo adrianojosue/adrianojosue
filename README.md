@@ -8,15 +8,14 @@
 </ul>
   
 <h2>Languages and Tools:</h2>
+
 <h3>Design</h3>
-<a href='#'><img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" alt="Figma" width="40" height="40"/></a>
-<a href='#'><img src="https://github.com/devicons/devicon/blob/master/icons/sketch/sketch-original.svg" alt="Sketch" width="40" height="40"/></a>
-<a href='#'><img src="https://github.com/devicons/devicon/blob/master/icons/xd/xd-plain.svg" alt="Adobe XD" width="40" height="40"/></a>
+<img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" alt="Figma" width="40" height="40" />
+<img src="https://github.com/devicons/devicon/blob/master/icons/sketch/sketch-original.svg" alt="Sketch" width="40" height="40" />
+<img src="https://github.com/devicons/devicon/blob/master/icons/xd/xd-plain.svg" alt="Adobe XD" width="40" height="40" />
 
 <h3>Development</h3>
-
-<a><img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40" align="left" /></a>
-  
+<img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40" align="left" />
 <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" alt="Redux" width="40" height="40" align="left" />
 <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40" align="left" />
 <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40" align="left" />
