@@ -1,5 +1,8 @@
 <h1>Hi 👋, I'm Adriano, a UI Developer</h1>
 
+<br>
+<br>
+
 <p>I love create UIs, learn web technologies and work with React.</p>
 
 <ul>
