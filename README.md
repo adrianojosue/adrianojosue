@@ -15,19 +15,14 @@
 
 <h3>Development</h3>
 
-<a href='#'><img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40" align="left" /></a>
+<a><img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40" align="left" /></a>
   
-<a href='#'><img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" alt="Redux" width="40" height="40" align="left" /></a>
-  
-<a href='#'><img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40" align="left" /></a>
-  
-<a href='#'><img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40" align="left" /></a>
-  
-<a href='#'><img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40" align="left" /></a>
-  
-<a href='#'><img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" alt="SASS" width="40" height="40" align="left" /></a>
-  
-<a href='#'><img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain.svg" alt="Firebase" width="40" height="40" align="left" /></a>
+<img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" alt="Redux" width="40" height="40" align="left" />
+<img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40" align="left" />
+<img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40" align="left" />
+<img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40" align="left" />
+<img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" alt="SASS" width="40" height="40" align="left" />
+<img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain.svg" alt="Firebase" width="40" height="40" align="left" />
 
 <br>
 <br>
