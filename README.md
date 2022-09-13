@@ -24,7 +24,6 @@
 <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40" align="left" />
 <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40" align="left" />
 <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" alt="SASS" width="40" height="40" align="left" />
-<img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain.svg" alt="Firebase" width="40" height="40" align="left" />
 
 <br>
 <br>
