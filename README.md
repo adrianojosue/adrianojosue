@@ -3,7 +3,7 @@
 <p>I'm a passionate about designing UIs, write code, learn web technologies and work with React.</p>
 
 <ul>
-  <li>You can watch my UI designs on <a href="https://www.behance.net/adrianojosue" target="_blank">Behance</a>.</li>
+  <li>Take a look at my UI designs on <a href="https://www.behance.net/adrianojosue" target="_blank">Behance</a>.</li>
   <li>This is my resume 😎: <a href='./Resume (Adriano Josué Díaz Hidalgo).pdf' align="left">📄</a></li>
 </ul>
   
