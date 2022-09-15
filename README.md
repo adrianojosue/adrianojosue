@@ -1,6 +1,6 @@
 <h1>Hi 👋, I'm Adriano, a UI Developer</h1>
 
-<p>I do love create UIs, write code, learn web technologies and work with React.</p>
+<p>I'm a passionate about designing UIs, write code, learn web technologies and work with React.</p>
 
 <ul>
   <li>You can watch my UI designs on <a href="https://www.behance.net/adrianojosue" target="_blank">Behance</a>.</li>
