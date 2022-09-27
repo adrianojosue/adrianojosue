@@ -1,4 +1,4 @@
-<h1>Hi 👋, I'm Adriano, a UI Developer</h1>
+<h1>Hi 👋, I'm Adriano</h1>
 
 <p>I'm a passionate about designing UIs, write code, learn web technologies and work with React.</p>
 
