@@ -28,7 +28,7 @@
 <br>
 <br>
 
-<h1>Most recent projects</h2>
+<h2>Most recent projects</h2>
 <a href='https://github.com/adrianojosue/alborghetti' target='_blank'>Alborghetti (e-commerce web app project)</a>
 
 <br>
