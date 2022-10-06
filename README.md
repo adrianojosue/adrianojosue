@@ -40,7 +40,3 @@
   <li><a href="https://www.linkedin.com/in/adrianojosue/" target="_blank">LinkedIn</a></li>
   <li><a href="mailto:josuediazhidalgo@gmail.com">Email me</a></li>
 </ul>
-  
-<h2>📉 My statistics:</h2>
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=adrianojosue&show_icons=true&count_private=true&theme=github_dark&hide=issues)](https://github.com/anuraghazra/github-readme-stats)
