@@ -1,4 +1,4 @@
-<h1>Hi 👋, I'm Adriano, Front-end Web Developer and UX/UI Designer</h1>
+<h1>Hi 👋, I'm Adriano, Meta Certified Front-End Web Developer</h1>
 
 <p>I'm a passionate about designing UIs, write code, learn web technologies and work with React.</p>
 
@@ -11,8 +11,6 @@
 
 <h3>Design</h3>
 <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" alt="Figma" width="40" height="40" align="left" />
-<img src="https://github.com/devicons/devicon/blob/master/icons/sketch/sketch-original.svg" alt="Sketch" width="40" height="40" align="left" />
-<img src="https://github.com/devicons/devicon/blob/master/icons/xd/xd-plain.svg" alt="Adobe XD" width="40" height="40" align="left" />
 
 <br>
 <br>
