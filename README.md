@@ -1,4 +1,4 @@
-<h1>Hi 👋, I'm Adriano, Meta Certified Front-End Web Developer</h1>
+<h1>Hi 👋, I'm Adriano, Meta Certified Front-End Developer</h1>
 
 <p>I'm a passionate about designing UIs, write code, learn web technologies and work with React.</p>
 
