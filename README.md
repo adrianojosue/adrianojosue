@@ -1,4 +1,4 @@
-<h1>Hi 👋, I'm Adriano, Meta Certified Front-End Developer</h1>
+<h1>Hi 👋, I'm Adriano, <a href='https://coursera.org/verify/professional-cert/WDCS7M9TY6MP' target='_blank'><img src="./meta-certification.svg" alt="React" width="128" height="128" style="vertical-align: middle;display:inline-block;" /> Meta Certified Front-End Developer</a></h1>
 
 <p>I'm a passionate about designing UIs, write code, learn web technologies and work with React.</p>
 
