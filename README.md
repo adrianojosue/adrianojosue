@@ -1,4 +1,4 @@
-<img src="./coffe-dog.gif" alt="Coffe Dog Gif" width="64" height="64" align="left" style="vertical-align:middle;display:inline-block;" /><h1>Hi! 👋, I'm Adriano, <a href='https://coursera.org/verify/professional-cert/WDCS7M9TY6MP' target='_blank'>Meta Certified Front-End Developer</a></h1>
+<img src="./coffe-dog.gif" alt="Coffe Dog Gif" width="64" height="64" align="left" style="vertical-align:middle;display:inline-block;" /><h1>Hi 👋, I'm Adriano, <a href='https://coursera.org/verify/professional-cert/WDCS7M9TY6MP' target='_blank'>Meta Certified Front-End Developer</a></h1>
 
 <p>I'm a passionate about designing UIs, write code, learn web technologies and work with React.</p>
 
